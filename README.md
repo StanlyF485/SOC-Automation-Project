@@ -8,4 +8,6 @@ Use the link: https://m.do.co/c/e2ce5a05f701 <- To get a free $200 credit for th
 Mimikatz
 https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
 
+Shuffler
+
 https://shuffler.io/workflows/fc6e9b01-28f9-4025-ad0a-684c7cb0c73d
